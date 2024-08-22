@@ -1,0 +1,1 @@
+const person:string = "Mahfuj"
